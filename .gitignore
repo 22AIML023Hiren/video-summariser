@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+TextualSummarizationOfVideosInIndicLanguage-backend/venv/
+
+# Environment variables
+.env
+
+# Generated media & downloads
+downloads/
+audio_files/
+
+# System files
+.DS_Store
+Thumbs.db
