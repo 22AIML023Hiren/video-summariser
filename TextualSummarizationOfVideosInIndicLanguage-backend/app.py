@@ -1,3 +1,5 @@
+# Temporary commit to track backend progress
+# Note : This is for GitHub contribution tracking only
 # --- app.py ---
 from flask import Flask, request, jsonify
 from main import (
