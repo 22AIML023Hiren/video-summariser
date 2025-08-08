@@ -8,7 +8,7 @@ This project aims to provide textual summarization of videos in Indic languages 
 ---
 
 #### Backend Application:
-The backend application (`app.py`) is written in Flask, a lightweight WSGI web application framework in Python. All the required functions for summarization are present in the `main.py` file.
+The backend application (`app.py`) is written in Flask, a lightweight WSGI(Web Server Gateway Interface) web application framework in Python. All the required functions for summarization are present in the `main.py` file.
 
 ---
 
