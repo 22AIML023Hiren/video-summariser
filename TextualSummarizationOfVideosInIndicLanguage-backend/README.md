@@ -45,3 +45,18 @@ We have explored various different approaches in this project. For detailed code
 Ensure that you have appropriate permissions and access to the required APIs before running the application.
 
 ---
+
+### Future Enhancements
+- Add option to download summaries as PDF or text.
+- Integrate more Indic languages.
+- Include sentiment analysis of video transcripts.
+- Improve summarization for videos longer than 10 minutes.
+
+---
+
+### Contributing
+We welcome contributions! Please:
+1. Fork this repository.
+2. Create a feature branch: `git checkout -b feature/your-feature`
+3. Commit changes: `git commit -m "feat: describe feature"`
+4. Push to branch and open a Pull Request.
